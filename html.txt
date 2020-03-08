@@ -1,0 +1,117 @@
+<form>
+<h1>KARTIK GUPTA</h1>
+<h2><div> 212,DDA SFS FLATS SECT-5, PKT-1 DWARKA NEW DELHI 110075 - 9818165791 </div> </h2> 
+<br/>
+<h3><div>kartikgupta9@gmail.com</div></h3>
+<hr>
+<br/>
+<h4>TRAININGS</h4>
+
+<ul>
+<name><div>MAY 2019 – JUNE 2019</div><br/></name>
+<name1>SOLID STATE OF PHYSICS LABORATORY (DRDO)<br/></name1>
+Completed my summer internship training in the field of networking, my role was network planning and<br/> designing.<br/>
+</ul><br/>
+<ul>
+<name><div>JUNE 2018 – JULY 2018</div><br/></name>
+<name1>SOLID STATE OF PHYSICS LABORATORY (DRDO)<br/></name1>
+Completed my summer internship training in the field of networking, my role was network planning and<br/> designing.<br/>
+</ul><br/>
+
+<h4>EDUCATION</h4>
+
+<ul>
+<name2><div> 2016-2020 </div><br/></name2>
+<name3><div>  BACHELORS OF TECHNOLOGY<name2> ,AMITY SCHOOL OF ENGINEERING AND TECHNOLOGY,NOIDA</name2> </div><br/></name3>
+B.Tech IN COMPUTER SCIENCE having current CGPA of 7.29<br/>
+</ul>
+
+<ul>
+<name2><div> 2016 </div><br/></name2>
+<name3><div>  XII,<name2> VANDANA INTERNATIONAL SCHOOL, DWARKA</name2> </div><br/></name3>
+Completed my +2 in science background from CBSE board with 71.8%<br/>
+</ul>
+
+<ul>
+<name2><div> 2014 </div><br/></name2>
+<name3><div>  X,<name2> BAL BHARTI PUBLIC SCHOOL, DWARKA</name2> </div><br/></name3>
+Completed my Xth from CBSE board with CGPA of 7.8 <br/>
+</ul>
+
+<ul>
+<name2><div> CERTIFICATION </div><br/></name2>
+CCNA certification in (Routing and Switching) <br/>
+</ul>
+
+<h4>SKILLS</h4>
+<ul>
+<li>•	Conflict resolution •	Decision making</li><br/>
+<li>•	Management •	Time management< br/></li>
+</ul>
+<h4>ACTIVITIES</h4>
+
+<ul>
+<name2><div> COORDINATOR <name4>Freshers Orientation 2019, Amity University Noida</name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> VOLUNTEER <name4>Blockchain Summit 2019 (Held at IIM Lucknow Noida Campus) by Proviar </name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> COORDINATOR <name4>Local Arrangement Confluence 2019 </name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> COORDINATOR <name4>Cybercup 2019 Technical event of CSE department of Amity (Noida) </name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> CAMPUS AMBASSADOR <name4>Kind beings (Noida) (Jan 2019 – Present)</name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> CAMPUS AMBASSADOR <name4>Kshatriya IIT BHU Fest (Noida) (Sep 2018 - Sep 2018)</name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> COORDINATOR <name4>Umeed NGO(Noida) (July 2018-Dec 2018) </name4></div></name2> <br/>
+</ul>
+
+
+<ul>
+<name2><div> CAMPUS AMBASSADOR <name4>ISIE INDIA (Noida) (May 2018 – Present)</name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> EXECUTIVE MEMBER <name4>Computer Society of India, Student branch, Amity University Noida</name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> STUDENT AMBASSADOR <name4>Netrawild network & Frapp (Beat plastic pollution campaign)</name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> CAMPUS AMBASSADOR <name4>Rotaract club of DTU (April 2018 - May 2018)</name4></div></name2> <br/>
+</ul>
+
+<ul>
+<name2><div> VOLUNTEER <name4>Eride NGO (Virtual) (Mar 2018 - Apr 2018) </name4></div></name2> <br/>
+</ul>
+<ul><br/>
+•	Workshop on Ethical Hacking certified by Microsoft.<br/>
+•	Attended Open source workshop by Coding Blocks.<br/>
+•	Participated in mission Project water full life by Aadarsh Amdaavad. <br/>
+•	Participated in online contest Grammar Guru.<br/>
+•	Participated in Amity Human Value Quarter 2017.<br/>
+•	Attended one day seminar on Android by Cetpa.<br/>
+•	Attended workshop on Blockchain by Croma Campus.<br/>
+•	Attended Microsoft Azure workshop on AWS by Croma Campus.<br/>
+•	Attended AGDC workshop on Game Development by Aptron.<br/>
+</ul>
+<h4>RESEARCH</h4>
+<ul>
+<name2><div>
+EMPLOYEE MANAGEMENT SYSTEM <name4><p>International Conference on Recent Innovations in Science, <p/>Engineering, Technology & Management </name4></div></name2> 
+</ul>
+</form>

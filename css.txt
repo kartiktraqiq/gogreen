@@ -1,0 +1,103 @@
+h1 {
+  color: grey;
+  display: block;
+  font-family: Cambria;
+  font-weight: 400;
+  text-align: center;
+  line-height: 50%;
+}
+
+h2 {
+  color: grey;
+  display: inline;
+  text-align: center;
+  font-family: Calibri;
+  font-weight: 500;
+  font-size: small;
+  line-height: 1%;
+}
+
+h3 {
+  color: cornflowerblue;
+  display: inline;
+  text-align: center;
+  font-size: small;
+  font-family: Calibri;
+  font-weight: 600;
+  font-size: small;
+  line-height: 1%;
+}
+
+h4 {
+  color: black;
+  display: block;
+  font-family: Cambria;
+  font-weight: 600;
+  text-align: left;
+  line-height: 50%;
+}
+
+name {
+  color: dimgrey;
+  display: inline;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 600;
+  font-size: small;
+  line-height: 1%;
+
+}
+
+name1 {
+  color: dimgrey;
+  display: inline;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 500;
+  font-size: small;
+  line-height: 1%;
+
+}
+
+ul {
+  color: grey;
+  display: inline;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 500;
+  font-size: small;
+  line-height: 1%;
+
+}
+
+name2 {
+  color: dimgrey;
+  display: inline;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 600;
+  font-size: small;
+  line-height: 2%;
+
+}
+
+name3 {
+  color: cornflowerblue;
+  display: inline;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 600;
+  font-size: small;
+  line-height: 2%;
+
+}
+
+name4 {
+  color: dimgrey;
+  display: inline;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 500;
+  font-size: small;
+  line-height: 2%;
+}
